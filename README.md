@@ -58,6 +58,8 @@ AI 驱动的 Blender 3D 建模 Skill，通过自然语言描述生成生产级 3
 /blender-model-generator test
 ```
 
+![image-20260616143056289](image/image-20260616143056289.png)
+
 ### 手动设置（如果自动失败）
 
 #### 步骤 1: 安装 uv
